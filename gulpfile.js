@@ -26,7 +26,7 @@ const path = {
 		all: ['src/index.html','src/css/*.css','src/script/*.js'],
 		css: ['src/css/*.css'],
 		js: ['src/script/*.js'],
-		allJs: ['src/script/test.js'],
+		allJs: ['src/script/index.js'],
 		html: ['src/index.html']
 	},
 	output:{
